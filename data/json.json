@@ -1,0 +1,194 @@
+{
+  "data": {
+    "pid": -110,
+    "category": 2,
+    "stocks": [
+      {
+        "symbol": "F001593",
+        "name": "天弘创业板ETF联接C",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797583048
+      },
+      {
+        "symbol": "F007874",
+        "name": "华宝科技ETF联接C",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797578817
+      },
+      {
+        "symbol": "F161725",
+        "name": "招商中证白酒指数",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797574423
+      },
+      {
+        "symbol": "F519005",
+        "name": "海富通股票混合",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797569687
+      },
+      {
+        "symbol": "F003096",
+        "name": "中欧医疗健康混合C",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797563490
+      },
+      {
+        "symbol": "F007301",
+        "name": "国联安半导体ETF联接C",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797559341
+      },
+      {
+        "symbol": "F000878",
+        "name": "中海医药健康产业A",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797554040
+      },
+      {
+        "symbol": "F501047",
+        "name": "汇添富中证全指证券公司指数A",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797549198
+      },
+      {
+        "symbol": "F005919",
+        "name": "天弘中证500指数C",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797544567
+      },
+      {
+        "symbol": "F005777",
+        "name": "广发科技动力股票",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797538966
+      },
+      {
+        "symbol": "F000008",
+        "name": "嘉实中证500ETF联接",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797534849
+      },
+      {
+        "symbol": "F377240",
+        "name": "上投摩根新兴动力混合A",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797530433
+      },
+      {
+        "symbol": "F005110",
+        "name": "汇安多策略混合C",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797525460
+      },
+      {
+        "symbol": "F320007",
+        "name": "诺安成长混合",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797519941
+      },
+      {
+        "symbol": "F005911",
+        "name": "广发双擎升级混合",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797515540
+      },
+      {
+        "symbol": "F003853",
+        "name": "金鹰信息产业股票A",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797511009
+      },
+      {
+        "symbol": "F161028",
+        "name": "富国中证新能源汽车指数分级",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797506424
+      },
+      {
+        "symbol": "F165525",
+        "name": "信诚中证基建工程指数分级",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797481725
+      },
+      {
+        "symbol": "F003017",
+        "name": "广发中证军工ETF联接",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797476712
+      },
+      {
+        "symbol": "F400015",
+        "name": "东方新能源汽车混合",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797471681
+      },
+      {
+        "symbol": "F001595",
+        "name": "天弘中证银行指数C",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797465535
+      },
+      {
+        "symbol": "F002147",
+        "name": "长安鑫益增强混合C",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797458985
+      },
+      {
+        "symbol": "F167301",
+        "name": "方正富邦中证保险主题指数分级",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1582797101391
+      }
+    ]
+  },
+  "error_code": 0,
+  "error_description": ""
+}

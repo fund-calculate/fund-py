@@ -1,0 +1,363 @@
+{
+  "addedPlat": [
+    "0",
+    "1"
+  ],
+  "addedStatus": "0",
+  "appendPurchaseMoney": 1.0,
+  "appendPurchaseMoneyTxt": "1",
+  "assetOthertonav": "0.77",
+  "assetPrtBondtonav": "0.00",
+  "assetPrtCashtonav": "6.23",
+  "assetPrtStocktonav": "0.00",
+  "avgreturnDay": "0.15",
+  "avgreturnHalfyear": "0.00",
+  "avgreturnMonth": "12.00",
+  "avgreturnQuarter": "30.83",
+  "avgreturnShowOrder": "avgreturnQuarter|avgreturnMonth|avgreturnYear|avgreturnHalfyear",
+  "avgreturnThisyear": "24.22",
+  "avgreturnYear": "0.00",
+  "benchMark": "中证科技龙头指数收益率*95%+人民币银行活期存款利率(税后)*5%",
+  "category": "1",
+  "choiceFlag": "1",
+  "code": "007874",
+  "currentServerTime": 1582866829248,
+  "custodianBank": "中国工商银行",
+  "custodianfeeRatio": "0.1",
+  "defDivMethod": "0",
+  "defDividendType": "1",
+  "detailBuyBtnTxt": "",
+  "dividend": {
+    "responseCode": "0"
+  },
+  "dividend2msg": {
+    "divType": "0",
+    "responseCode": "1",
+    "responseMsg": "基金暂无分红数据"
+  },
+  "firstInvestType": "股票型",
+  "firstIssued": "1",
+  "firstPurchaseMoney": 1.0,
+  "firstPurchaseMoneyTxt": "1",
+  "fullName": "华宝中证科技龙头交易型开放式指数证券投资基金发起式联接基金",
+  "fundSellingDTO": {
+    "createdBy": "SYS",
+    "createdDate": 1567680560574,
+    "fundCode": "007874",
+    "fundName": "华宝科技ETF联接C",
+    "id": "5d70e8309932286c2cad036c",
+    "pageMakerKey": "p9061",
+    "startTime": 1567680557000,
+    "switchingInterface": "1",
+    "updatedBy": "SYS",
+    "updatedDate": 1567680560574
+  },
+  "industrys": [],
+  "investObject": "本基金主要通过投资于目标ETF，紧密跟踪标的指数，追求跟踪偏离度和跟踪误差最小化",
+  "investScope": "本基金主要投资于目标ETF基金份额、标的指数成份股、备选成份股。本基金还可投资于国内依法发行上市的非标的指数成份股(包括中小板、创业板及其他经中国证监会核准上市的股票)、债券(国债、央行票据、金融债券、企业债券、公司债券、中期票据、短期融资券、超短期融资券、次级债券、政府支持机构债、政府支持债券、地方政府债、可转换债券及其他经中国证监会允许投资的债券)、银行存款(包括协议存款、定期存款及其他银行存款)、债券回购、货币市场工具、股指期货、资产支持证券以及法律法规或中国证监会允许基金投资的其他金融工具(但须符合中国证监会相关规定)。如法律法规或监管机构以后允许基金投资其他品种，基金管理人在履行适当程序后，可以将其纳入投资范围。基金的投资组合比例为：本基金投资于目标ETF的资产比例不低于基金资产净值的90%。本基金每个交易日日终在扣除股指期货合约需缴纳的交易保证金后，持有现金(不包括结算备付金、存出保证金、应收申购款等)或者到期日在一年以内的政府债券不低于基金资产净值的5%。股指期货的投资比例依照法律法规或监管机构的规定执行。",
+  "invstChkFlag": "0",
+  "isBackendCollectFee": "1",
+  "isBankAndStock": "1",
+  "isDivMethod": "1",
+  "isFundInfoFull": "0",
+  "isHKFund": "false",
+  "isInvestorHookFund": "1",
+  "isPrivateFund": "3",
+  "isQDII": "1",
+  "isSubscribeZsb": "0",
+  "isTOMiddlePage": "1",
+  "isYieldStop": [
+    "1",
+    "2"
+  ],
+  "isZsb": "0",
+  "issueEndDate": "2019-08-27 15:00:00",
+  "issueStartDate": "2019-08-27 09:00:00",
+  "managementfeeRatio": "0.5",
+  "managers": [
+    {
+      "fmPerformanceList": [
+        {
+          "aindExeodPrices300": "1.43%",
+          "fundManagementBenefit": "-5.05%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20191219",
+          "fundName": "华宝中证消费龙头指数证券投资基金(LOF)",
+          "fundShortName": "华宝消费龙头",
+          "windCode": "501090"
+        },
+        {
+          "aindExeodPrices300": "7.51%",
+          "fundManagementBenefit": "37.15%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20190830",
+          "fundName": "华宝中证科技龙头交易型开放式指数证券投资基金发起式联接基金",
+          "fundShortName": "华宝科技ETF联接A",
+          "windCode": "007873"
+        },
+        {
+          "aindExeodPrices300": "7.51%",
+          "fundManagementBenefit": "36.89%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20190830",
+          "fundName": "华宝中证科技龙头交易型开放式指数证券投资基金发起式联接基金",
+          "fundShortName": "华宝科技ETF联接C",
+          "windCode": "007874"
+        },
+        {
+          "aindExeodPrices300": "8.02%",
+          "fundManagementBenefit": "11.82%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20190821",
+          "fundName": "华宝MSCI中国A股国际通ESG通用指数证券投资基金(LOF)",
+          "fundShortName": "华宝ESG基金",
+          "windCode": "501086"
+        },
+        {
+          "aindExeodPrices300": "8.02%",
+          "fundManagementBenefit": "56.77%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20190722",
+          "fundName": "华宝中证科技龙头交易型开放式指数证券投资基金",
+          "fundShortName": "科技ETF",
+          "windCode": "515000"
+        },
+        {
+          "aindExeodPrices300": "12.91%",
+          "fundManagementBenefit": "53.49%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20190520",
+          "fundName": "华宝中证医疗交易型开放式指数证券投资基金",
+          "fundShortName": "医疗ETF",
+          "windCode": "512170"
+        },
+        {
+          "aindExeodPrices300": "29.32%",
+          "fundManagementBenefit": "18.45%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20190124",
+          "fundName": "华宝标普中国A股质量价值指数证券投资基金(LOF)",
+          "fundShortName": "华宝质量基金",
+          "windCode": "501069"
+        },
+        {
+          "aindExeodPrices300": "30.21%",
+          "fundManagementBenefit": "8.31%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20181127",
+          "fundName": "华宝中证银行交易型开放式指数证券投资基金联接基金",
+          "fundShortName": "华宝中证银行ETF联接C",
+          "windCode": "006697"
+        },
+        {
+          "aindExeodPrices300": "6.30%",
+          "fundManagementBenefit": "-7.08%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20170828",
+          "fundName": "华宝标普中国A股红利机会指数证券投资基金(LOF)",
+          "fundShortName": "华宝红利基金C",
+          "windCode": "005125"
+        },
+        {
+          "aindExeodPrices300": "11.39%",
+          "fundManagementBenefit": "4.80%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20170718",
+          "fundName": "华宝中证银行交易型开放式指数证券投资基金",
+          "fundShortName": "银行ETF",
+          "windCode": "512800"
+        },
+        {
+          "aindExeodPrices300": "22.32%",
+          "fundManagementBenefit": "1.77%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20170118",
+          "fundName": "华宝标普中国A股红利机会指数证券投资基金(LOF)",
+          "fundShortName": "华宝红利基金",
+          "windCode": "501029"
+        },
+        {
+          "aindExeodPrices300": "27.45%",
+          "fundManagementBenefit": "-15.99%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20160805",
+          "fundName": "华宝中证军工交易型开放式指数证券投资基金",
+          "fundShortName": "军工行业",
+          "windCode": "512810"
+        },
+        {
+          "aindExeodPrices300": "-35.82%",
+          "fundManagementBenefit": "-67.52%",
+          "fundManagerLeavedate": "20180824",
+          "fundManagerStartdate": "20150604",
+          "fundName": "华宝中证1000指数分级证券投资基金",
+          "fundShortName": "华宝兴业中证1000指数分级",
+          "windCode": "162413"
+        },
+        {
+          "aindExeodPrices300": "-35.82%",
+          "fundManagementBenefit": "18.03%",
+          "fundManagerLeavedate": "20180824",
+          "fundManagerStartdate": "20150604",
+          "fundName": "华宝中证1000指数分级证券投资基金",
+          "fundShortName": "1000A",
+          "windCode": "150263"
+        },
+        {
+          "aindExeodPrices300": "-35.82%",
+          "fundManagementBenefit": "-98.01%",
+          "fundManagerLeavedate": "20180824",
+          "fundManagerStartdate": "20150604",
+          "fundName": "华宝中证1000指数分级证券投资基金",
+          "fundShortName": "1000B",
+          "windCode": "150264"
+        },
+        {
+          "aindExeodPrices300": "-15.62%",
+          "fundManagementBenefit": "26.57%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20150521",
+          "fundName": "华宝中证医疗指数分级证券投资基金",
+          "fundShortName": "医疗A",
+          "windCode": "150261"
+        },
+        {
+          "aindExeodPrices300": "-15.62%",
+          "fundManagementBenefit": "-93.87%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20150521",
+          "fundName": "华宝中证医疗指数分级证券投资基金",
+          "fundShortName": "医疗B",
+          "windCode": "150262"
+        },
+        {
+          "aindExeodPrices300": "-15.62%",
+          "fundManagementBenefit": "-44.69%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20150521",
+          "fundName": "华宝中证医疗指数分级证券投资基金",
+          "fundShortName": "华宝医疗分级",
+          "windCode": "162412"
+        },
+        {
+          "aindExeodPrices300": "36.51%",
+          "fundManagementBenefit": "71.62%",
+          "fundManagerLeavedate": "20181127",
+          "fundManagerStartdate": "20121016",
+          "fundName": "上证180成长交易型开放式指数证券投资基金",
+          "fundShortName": "成长ETF",
+          "windCode": "510280"
+        },
+        {
+          "aindExeodPrices300": "77.75%",
+          "fundManagementBenefit": "79.87%",
+          "fundManagerLeavedate": "至今",
+          "fundManagerStartdate": "20121016",
+          "fundName": "华宝中证银行交易型开放式指数证券投资基金联接基金",
+          "fundShortName": "华宝银行ETF联接A",
+          "windCode": "240019"
+        }
+      ],
+      "manager": "胡洁",
+      "managerFundQuantity": 20,
+      "managerSynopsis": "金融学硕士。2006年6月加入华宝兴业基金管理有限公司，先后在交易部、产品开发部工作，担任量化投资部高级数量分析师兼任投资经理助理的职务。2012年10月起任华宝兴业上证180成长交易型开放式指数证券投资基金联接基金(2018年11月起转型为华宝中证银行交易型开放式指数证券投资基金联接基金)的基金经理。2012年10月至2018年11月担任上证180成长交易型开放式指数证券投资基金基金经理。2015年5月21日起任华宝兴业中证医疗指数分级证券投资基金基金经理。2015年6月4日至2018年8月任华宝兴业中证1000指数分级证券投资基金基金经理。2016年8月起担任华宝兴业中证军工交易型开放式指数证券投资基金基金经理。2017年1月起任华宝兴业标普中国A股红利机会指数证券投资基金(LOF)基金经理。2017年7月起担任华宝兴业中证银行交易型开放式指数证券投资基金基金经理。2019年1月起任华宝标普中国A股质量价值指数证券投资基金(LOF)基金经理。2019年5月起任华宝中证医疗交易型开放式指数证券投资基金基金经理。2019年7月起任华宝中证科技龙头交易型开放式指数证券投资基金基金经理。2019年8月起任华宝MSCI中国A股国际通ESG通用指数证券投资基金(LOF)基金经理。2019年8月起任华宝中证科技龙头交易型开放式指数证券投资基金发起式联接基金基金经理。2019年12月起任华宝中证消费龙头指数证券投资基金(LOF)基金经理。",
+      "windCode": "007874.OF",
+      "workingTime": "7.37"
+    }
+  ],
+  "mgrcomp": "华宝基金",
+  "minHoldShare": "1.00",
+  "minRedeemShare": "1.00",
+  "name": "华宝科技ETF联接C",
+  "navAccumulated": 1.3689,
+  "navUnit": "1.3689",
+  "needWarning": "1",
+  "noviceExclusive": "1",
+  "originalPurchaseFee": "0.0",
+  "payAccountsType": "[0, 1, 7, 8]",
+  "payUsersType": [
+    "0",
+    "1"
+  ],
+  "publicNavInfoResource": "0",
+  "purchaseFeeRule": [
+    {
+      "minAmount": "0",
+      "oralFee": "0",
+      "responseCode": "0"
+    }
+  ],
+  "purchaseTardeUnit": "0.01",
+  "purchaseTardeUnitTxt": "0.01",
+  "purchaseTime": "1",
+  "redeemAgingTime": "3",
+  "redeemConfirmTime": "1",
+  "redeemFeeRule": [
+    {
+      "maxYear": "7日",
+      "memo": "0000",
+      "minYear": "0日",
+      "oralFee": "1.5"
+    },
+    {
+      "memo": "0010",
+      "minYear": "7日",
+      "oralFee": "0"
+    }
+  ],
+  "reserTradeDate": "",
+  "responseCode": "0",
+  "risk": "3",
+  "saleBeginDate": 1566867600000,
+  "salesServiceRate": "0.4",
+  "setupDate": "2019-08-30",
+  "singleMaxPurchaseMoney": "0.00",
+  "spmcsCategory": "1",
+  "status": "1",
+  "stocks": [],
+  "supervisionType": "2001",
+  "surportTradeChannels": [
+    "0",
+    "1"
+  ],
+  "taCode": "24",
+  "tradeDate": "2020-02-27",
+  "tradeDays": [
+    "2020-03-02",
+    "2020-03-03",
+    "2020-03-04",
+    "2020-03-05",
+    "2020-03-06",
+    "2020-03-09",
+    "2020-03-10",
+    "2020-03-11",
+    "2020-03-12",
+    "2020-03-13",
+    "2020-03-16",
+    "2020-03-17",
+    "2020-03-18",
+    "2020-03-19",
+    "2020-03-20"
+  ],
+  "tradingRulesType": "A",
+  "tradyStatus": {
+    "buyStatus": "2",
+    "buyStatusMsg": "正常购买",
+    "conversionStatus": "2",
+    "detailBuyBtn": "7",
+    "fundCode": "007874",
+    "investBuyStatus": "2",
+    "investBuyStatusMsg": "正常购买",
+    "isFullPeople": "0",
+    "isFullscale": "0",
+    "isOtcFullPeople": "0",
+    "redemStatus": "2",
+    "redemStatusMsg": "正常赎回",
+    "reserBuyStatus": "1",
+    "reserRedeemStatus": "1",
+    "responseCode": "0",
+    "tradePlat": "0"
+  },
+  "type": "2",
+  "unitTotal": "2.91亿"
+}
